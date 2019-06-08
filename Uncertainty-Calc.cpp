@@ -1,17 +1,4 @@
 #include "Uncertainty-Calc.h"
-#include <conio.h>
-#include <iostream>
-#include <cstdlib>
-#include <sstream>
-#include <vector>
-#include <iostream>
-#include <cstdio>
-#include <iomanip>
-#include <io.h>
-#include <fcntl.h>
-#include <cmath>
-#include <windows.h>
-#include <string>
 
 using namespace std;
 
